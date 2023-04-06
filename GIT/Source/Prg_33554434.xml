@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738616" _time="44925" date="06/04/2023" time="12:28:45"/>
+          <LastModified _date="738616" _time="45167" date="06/04/2023" time="12:32:47"/>
         </Header>
         <ItemIsn val="1"/>
         <Resource>
@@ -35,9 +35,9 @@
             <Column id="33554433" name="Var1">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="50"/>
+                <Picture id="157" valUnicode="500"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="50"/>
+                <Size id="174" val="500"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
@@ -121,6 +121,7 @@
               </LogicLine>
               <LogicLine>
                 <Select FieldID="33554433" FlowIsn="33554435" id="33554433">
+                  <ASS val="33554433"/>
                   <Column val="33554433"/>
                   <Type val="V"/>
                   <ExposedToRoute val="N"/>
@@ -142,6 +143,12 @@
             </PropertyList>
           </FormEntry>
         </TaskForms>
+        <Expressions>
+          <Expression id="33554433">
+            <ExpSyntax val="'BranchOne'"/>
+            <ExpAttribute val="A"/>
+          </Expression>
+        </Expressions>
       </Task>
     </Programs>
   </ProgramsRepository>
