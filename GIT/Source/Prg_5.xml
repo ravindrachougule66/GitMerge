@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738616" _time="47326" date="06/04/2023" time="13:08:46"/>
+          <LastModified _date="738616" _time="47726" date="06/04/2023" time="13:15:26"/>
         </Header>
         <ItemIsn val="1"/>
         <Resource>
@@ -35,9 +35,9 @@
             <Column id="1" name="Variable">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="555"/>
+                <Picture id="157" valUnicode="4"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="555"/>
+                <Size id="174" val="4"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
