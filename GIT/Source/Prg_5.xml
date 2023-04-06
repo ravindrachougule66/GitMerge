@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="MasterBranchProgram" ISN_2="1" LastIsn="1" id="5">
+        <Header Description="MasterBranchProgram-B2" ISN_2="1" LastIsn="1" id="5">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738616" _time="47108" date="06/04/2023" time="13:05:08"/>
+          <LastModified _date="738616" _time="47326" date="06/04/2023" time="13:08:46"/>
         </Header>
         <ItemIsn val="1"/>
         <Resource>
@@ -35,9 +35,9 @@
             <Column id="1" name="Variable">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="55"/>
+                <Picture id="157" valUnicode="555"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="55"/>
+                <Size id="174" val="555"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
@@ -138,7 +138,7 @@
           <FormEntry id="1">
             <PropertyList model="FORM_GUI0">
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="MasterBranchProgram"/>
+              <FormName id="311" valUnicode="MasterBranchProgram-B2"/>
             </PropertyList>
           </FormEntry>
         </TaskForms>
